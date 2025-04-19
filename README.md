@@ -1,7 +1,7 @@
 # Penuel-Kibet
 # Hi there, I'm Penuel Kibet! 👋
 
-I'm a passionate software developer with expertise in C,React, Node.js, Python, Laravel,SQL and Oracle architecture . I love building  web applications, game development and solving real-world problems.
+I'm a passionate software developer with expertise in C, React, Node.js, Python, Laravel, SQL and Oracle architecture . I love building  web applications, game development and solving real-world problems using modern AI models.
 
 ## 🛠️ Technologies & Tools
 
@@ -26,8 +26,8 @@ I'm a passionate software developer with expertise in C,React, Node.js, Python, 
 
 ## 🏆 Achievements
 
-- Managed to win Nakuru Esports Eligue championship held at Mount Kenya University
-- Ranked top 8 in Kenya's eligue one championship.
+- Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University
+- Ranked top 8 in Kenya's eligue one  electronic football championship.
 
 ## 📫 Let's Connect!
 
