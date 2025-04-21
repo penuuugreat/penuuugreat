@@ -1,7 +1,7 @@
 # Penuel-Kibet
 # Hi there, I'm Penuel Kibet! 👋
 
-I'm a passionate software developer with expertise in C, React, Node.js, Python, Laravel, SQL and Oracle architecture . I love building  web applications, game development and solving real-world problems using modern AI models.
+I'm a passionate software developer with expertise in C, React, Node.js, Python, AI Automation, SQL and Oracle architecture . I love building  web applications, game development and solving real-world problems with help of modern AI models for scalability.
 
 ## 🛠️ Technologies & Tools
 
