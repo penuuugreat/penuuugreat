@@ -15,6 +15,10 @@ I'm a passionate software developer with expertise in C, React, Node.js, Python,
 ### Crime File Reporting System (https://github.com/penuuugreat/project-1)
 - **Description**: Its about new generation crime reporting system that helps Police Officers manage crime effectively.
 - **Tech Stack**: PHP, Javascript
+  
+ ### Personal Assistant AI (https://github.com/penuuugreat/Automated-Personal-Assistant-AI-)
+ - **Description**: A versatile personal assistant that combines voice commands, AI responses, calendar management, weather updates, and reminders.
+ - **Tech Stack**:Python
 
 ## 📈 GitHub Stats
 
