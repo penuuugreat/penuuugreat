@@ -12,7 +12,7 @@ I'm a passionate software developer and data engineer with expertise in C, React
 
 ## 🌟 Featured Projects
 
-### Crime File Reporting System (https://github.com/penuuugreat/project-1)
+### Crime File Reporting System (https://github.com/penuuugreat/crime-file-reporting-system)
 - **Description**: Its about new generation crime reporting system that helps Police Officers manage crime effectively.
 - **Tech Stack**: PHP, Javascript
   
