@@ -29,7 +29,8 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 [![Theme](https://img.shields.io/badge/Theme-Light%20/%20Dark-blue)](https://github.com/penuuugreat)
 
 ## 🏆 Achievements
-- AWS Educate Machine Learning Foundation.   
+- Oracle Cloud Infrastructure Foundation Badge.
+- AWS Educate Machine Learning Foundation Badge
 - Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University.
 - Ranked top 8 in Kenya's eligue one  electronic football championship.
 
