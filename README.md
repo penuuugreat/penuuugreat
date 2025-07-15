@@ -1,7 +1,7 @@
 # Penuel-Kibet
 # Hi there, I'm Penuel Kibet! 👋
 
-I'm a passionate software developer and data engineer with expertise in  React, Node.js, Python, AI Automation, SQL and Oracle architecture . I love building  web applications, game development and solving real-world problems with help of modern AI models for scalability.
+I'm a passionate Machine Learning engineer with expertise in Python,Typescript, AI Automation, SQL and Oracle Database Architecture.I love building Machine Learning models to suite business applications, game development and solving real-world problems.
 
 ## 🛠️ Technologies & Tools
 
@@ -29,8 +29,8 @@ I'm a passionate software developer and data engineer with expertise in  React, 
 [![Theme](https://img.shields.io/badge/Theme-Light%20/%20Dark-blue)](https://github.com/penuuugreat)
 
 ## 🏆 Achievements
-
-- Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University
+- AWS Educate Machine Learning Foundation.   
+- Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University.
 - Ranked top 8 in Kenya's eligue one  electronic football championship.
 
 ## 📫 Let's Connect!
