@@ -8,7 +8,7 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 - **Frontend**: Typescript,React
 - **Backend**: Node.js, Python
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, VS Code , Bolt.io,Lovable
+- **Tools**: Git, VS Code,Jupyter Notebook, Bolt.io,Lovable
 
 ## 🌟 Featured Projects
 
