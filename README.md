@@ -30,7 +30,7 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 
 ## 🏆 Achievements
 - Oracle Cloud Infrastructure Foundation Badge.
-- AWS Educate Machine Learning Foundation Badge....![AppVeyor Build](https://img.shields.io/appveyor/build/https%3A%2F%2Fwww.credly.com%2Fbadges%2F4a5479c7-3732-4769-9613-b403679cc492%2Fpublic_url/:repo)
+- AWS Educate Machine Learning Foundation Badge.
 - Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University.
 - Ranked top 8 in Kenya's eligue one  electronic football championship.
 
