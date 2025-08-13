@@ -13,7 +13,7 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 ## 🌟 Featured Projects
 ### Selenium Scripts(https://github.com/seleniumbase/SeleniumBase.git)
 - **Description**:Selenium allows developers and testers to automate the testing of web applications across different browsers and platforms.
-- - **Tech Stack**:Python,HTML,Dockerfile
+- **Tech Stack**:Python,HTML,Dockerfile
 
 ### Crime File Reporting System (https://github.com/penuuugreat/crime-file-reporting-system)
 - **Description**: Its about new generation crime reporting system that helps Police Officers manage crime effectively.
@@ -32,7 +32,8 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 [![Theme](https://img.shields.io/badge/Theme-Light%20/%20Dark-blue)](https://github.com/penuuugreat)
 
 ## 🏆 Achievements
-- Oracle Cloud Infrastructure Foundation Badge.
+-Oracle Cloud Infrastructure 2025 Certified Data Science Professional.
+- Oracle Cloud Infrastructure Data Foundation Associate.
 - AWS Educate Machine Learning Foundation Badge.
 - Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University.
 - Ranked top 8 in Kenya's eligue one  electronic football championship.
