@@ -11,6 +11,9 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 - **Tools**: Git, VS Code,Jupyter Notebook, Bolt.io,Lovable
 
 ## 🌟 Featured Projects
+### Selenium Scripts(https://github.com/seleniumbase/SeleniumBase.git)
+- **Description**:Selenium allows developers and testers to automate the testing of web applications across different browsers and platforms.
+- - **Tech Stack**:Python,HTML,Dockerfile
 
 ### Crime File Reporting System (https://github.com/penuuugreat/crime-file-reporting-system)
 - **Description**: Its about new generation crime reporting system that helps Police Officers manage crime effectively.
