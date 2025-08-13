@@ -9,6 +9,7 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 - **Backend**: Node.js, Python
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, VS Code,Jupyter Notebook, Bolt.io,Lovable
+- **Cloud services**:AWS,Firebase,Cloudfare,Oracle
 
 ## 🌟 Featured Projects
 ### Selenium Scripts(https://github.com/seleniumbase/SeleniumBase.git)
