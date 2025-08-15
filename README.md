@@ -5,11 +5,11 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend**: Typescript,React
+- **Frontend**: Typescript, React
 - **Backend**: Node.js, Python
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git,VS Code,Kaggle,Jupyter Notebook, Bolt.io,Lovable
-- **Cloud services**:AWS,Firebase,Cloudfare,Oracle
+- **Tools**: Hugging Face, Git, VS Code, Kaggle, Jupyter Notebook, Bolt.io, Lovable
+- **Cloud services**:AWS, Firebase, Cloudfare, Oracle
 
 ## 🌟 Featured Projects
 ### Selenium Scripts(https://github.com/seleniumbase/SeleniumBase.git)
