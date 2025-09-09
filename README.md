@@ -32,7 +32,8 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 
 [![Theme](https://img.shields.io/badge/Theme-Light%20/%20Dark-blue)](https://github.com/penuuugreat)
 
-## 🏆 Achievements
+## 🏆 Badges and Achievements
+.(https://www.credly.com/users/penuel-kibet)
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional.
 - Oracle Cloud Infrastructure Data Foundation Associate.
 - AWS Educate Machine Learning Foundation Badge.
