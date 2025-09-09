@@ -1,7 +1,7 @@
 # Penuel-Kibet
 # Hi there, I'm Penuel Kibet! 👋
 
-I'm a passionate Machine Learning engineer with expertise in Python,Typescript, AI Automation, SQL and Oracle Database Architecture.I love building Machine Learning models to suite business applications, game development and solving real-world problems.
+I'm a passionate Machine Learning engineer with expertise in Python,Typescript, AI Automation, SQL and Oracle Database Architecture.I love building Machine Learning models to suite business applications, game development and solving real-world problems.(https://www.credly.com/users/penuel-kibet)
 
 ## 🛠️ Technologies & Tools
 
