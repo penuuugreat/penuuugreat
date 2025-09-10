@@ -37,7 +37,7 @@ I'm a passionate Machine Learning engineer with expertise in Python,Typescript, 
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional.
 - Oracle Cloud Infrastructure Data Foundation Associate.
 - AWS Educate Machine Learning Foundation Badge.
-- Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University.
+- Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University.(https://youtu.be/Ku6QaxsjFss?si=IQZGivMR51FSjTmt)
 - Ranked top 8 in Kenya's eligue one  electronic football championship.
 
 ## 📫 Let's Connect!
