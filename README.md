@@ -1,52 +1,22 @@
-# Penuel-Kibet
-# Hi there, I'm Penuel Kibet! 👋
+# 💫 About Me:
+🔭 I'm a passionate Machine Learning engineer with expertise in Python, Typescript, AI Automation, SQL and Oracle Database Architecture. I love building Machine Learning models to suite business applications, game development and solving real-world problems.<br>      For professional certificate validation click on this link  (https://www.credly.com/users/penuel-kibet)
 
-I'm a passionate Machine Learning engineer with expertise in Python,Typescript, AI Automation, SQL and Oracle Database Architecture.I love building Machine Learning models to suite business applications, game development and solving real-world problems.(https://www.credly.com/users/penuel-kibet)
 
-## 🛠️ Technologies & Tools
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/penu_the_great) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:penuelkibet@gmail.com) 
 
-- **Frontend**: Typescript, React
-- **Backend**: Node.js, Python
-- **Databases**: MySQL, MongoDB
-- **Tools**: Hugging Face, Git, VS Code, Kaggle, Jupyter Notebook, Bolt.io, Lovable
-- **Cloud services**:AWS, Firebase, Cloudfare, Oracle
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=penuuugreat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=penuuugreat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=penuuugreat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌟 Featured Projects
-### Selenium Scripts(https://github.com/seleniumbase/SeleniumBase.git)
-- **Description**:Selenium allows developers and testers to automate the testing of web applications across different browsers and platforms.
-- **Tech Stack**:Python,HTML,Dockerfile
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Crime File Reporting System (https://github.com/penuuugreat/crime-file-reporting-system)
-- **Description**: Its about new generation crime reporting system that helps Police Officers manage crime effectively.
-- **Tech Stack**: PHP, Javascript
-  
- ### Personal Assistant AI (https://github.com/penuuugreat/Automated-Personal-Assistant-AI-)
- - **Description**: A versatile personal assistant that combines voice commands, AI responses, calendar management, weather updates, and reminders.
- - **Tech Stack**:Python
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=penuuugreat&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=penuuugreat&layout=compact&theme=dark)
-
-[![Theme](https://img.shields.io/badge/Theme-Light%20/%20Dark-blue)](https://github.com/penuuugreat)
-
-## 🏆 Badges and Achievements
-.(https://www.credly.com/users/penuel-kibet)
-- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional.
-- Oracle AI Vector Search Certified Professional.
-- Oracle Cloud Infrastructure 2025 Certified Data Science Professional.
-- AWS Educate Machine Learning Foundation Badge.
-- Managed to win a football tournament at Nakuru Esports Eligue championship held at Mount Kenya University.(https://youtu.be/Ku6QaxsjFss?si=IQZGivMR51FSjTmt)
-- Ranked top 8 in Kenya's eligue one  electronic football championship.
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://twitter.com)
-- Email: penuelkibet@gmail.com
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=penuuugreat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-⭐️ From Penuel Kibet (https://github.com/penuuugreat)
+[![](https://visitcount.itsvg.in/api?id=penuuugreat&icon=0&color=0)](https://visitcount.itsvg.in)
