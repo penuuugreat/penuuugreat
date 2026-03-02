@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a passionate Machine Learning engineer with expertise in Python, Typescript, AI Automation, SQL and Oracle Database Architecture. I love building Machine Learning models to suite business applications, game development and solving real-world problems.<br>      For professional certificate validation click on this link  (https://www.credly.com/users/penuel-kibet)
+🔭I'm an AI and Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. I specialize in transforming complex data into scalable models and deployable solutions..<br>      For professional certificate validation click on this link  (https://www.credly.com/users/penuel-kibet)
 
 
 ## 🌐 Socials:
