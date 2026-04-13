@@ -15,5 +15,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=penuuugreat&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+### 📁 Repositories
+
+<a href="https://github.com/penuuugreat/ragchatbot">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=ragchatbot&theme=dark&hide_border=false" />
+</a>
+<a href="https://github.com/penuuugreat/personal-ai">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=personal-ai&theme=dark&hide_border=false" />
+</a>
+<a href="https://github.com/penuuugreat/housing-price-predictor">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=housing-price-predictor&theme=dark&hide_border=false" />
+</a>
