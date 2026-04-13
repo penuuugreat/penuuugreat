@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 📁 Repositories
+### 📁 Top contributed Repositories
 
 <a href="https://github.com/penuuugreat/ragchatbot">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=ragchatbot&theme=dark&hide_border=false" />
@@ -25,4 +25,10 @@
 </a>
 <a href="https://github.com/penuuugreat/housing-price-predictor">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=housing-price-predictor&theme=dark&hide_border=false" />
+</a>
+<a href="https://github.com/penuuugreat/Breast-Cancer-Detection---Classification">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=Breast-Cancer-Detection---Classification&theme=dark&hide_border=false" />
+</a>
+<a href="https://github.com/penuuugreat/crime-file-reporting-system">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=crime-file-reporting-system&theme=dark&hide_border=false" />
 </a>
