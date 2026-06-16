@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭I'm an AI and Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. I specialize in transforming complex data into scalable models and deployable solutions..<br>      For professional certificate validation click on this link  (https://www.credly.com/users/penuel-kibet) 
->> 💼Porfolio link https://penuelportfoliofinal.vercel.app/
+>> 💼Porfolio link https://penuelportfoliofinal-1.vercel.app/
 
 
 ## 🌐 Socials:
