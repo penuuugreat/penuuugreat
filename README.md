@@ -18,12 +18,6 @@
 
 ### 📁 Top contributed Repositories
 
-<a href="https://github.com/penuuugreat/ragchatbot">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=ragchatbot&theme=dark&hide_border=false" />
-</a>
-<a href="https://github.com/penuuugreat/personal-ai">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=personal-ai&theme=dark&hide_border=false" />
-</a>
 <a href="https://github.com/penuuugreat/housing-price-predictor">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=housing-price-predictor&theme=dark&hide_border=false" />
 </a>
@@ -32,4 +26,10 @@
 </a>
 <a href="https://github.com/penuuugreat/crime-file-reporting-system">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=crime-file-reporting-system&theme=dark&hide_border=false" />
+</a>
+<a href="https://github.com/penuuugreat/ragchatbot">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=ragchatbot&theme=dark&hide_border=false" />
+</a>
+<a href="https://github.com/penuuugreat/personal-ai">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=penuuugreat&repo=personal-ai&theme=dark&hide_border=false" />
 </a>
